@@ -1,0 +1,29 @@
+{
+  "repo": "dvdfab-12-all-in-one-ripper",
+  "product": "Dvdfab 12 All In One Ripper",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://dvdfab.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "dvdfab",
+    "dvd-ripper",
+    "blu-ray-copy",
+    "video-conversion",
+    "disc-authoring",
+    "media-converter",
+    "video-backup",
+    "disc-tools",
+    "dvdfab-setup-failed-fix",
+    "how-to-install-dvdfab",
+    "dvdfab-windows",
+    "media-tools",
+    "windows-tools",
+    "video-utility"
+  ],
+  "stars_cache": 22,
+  "nexpath_slug": "dvdfab",
+  "nexpath_app_name": "Dvdfab"
+}
